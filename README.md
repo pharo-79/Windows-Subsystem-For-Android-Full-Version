@@ -243,4 +243,4 @@ This repository serves as the official landing page for Windows Subsystem for An
 **Get the most recent version of Windows Subsystem for Android today!**
 
 ---
-**Last updated:** 2026-10-14 13:29:11 UTC
+**Last updated:** 2026-10-14 18:24:48 UTC
